@@ -1,0 +1,23 @@
+{
+  "name": "socketiochatapp",
+  "version": "1.0.0",
+  "description": "a simple chat app made with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceckenrode/socketioChatApp.git"
+  },
+  "author": "Christian Eckenrode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceckenrode/socketioChatApp/issues"
+  },
+  "homepage": "https://github.com/ceckenrode/socketioChatApp#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
